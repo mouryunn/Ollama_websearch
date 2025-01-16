@@ -22,8 +22,7 @@ This project is a simple web application that combines the power of the Llama 3.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/mouryunn/Ollama_websearch/tree/main
    ```
 
 2. Install the required dependencies:
