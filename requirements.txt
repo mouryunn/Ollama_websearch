@@ -1,0 +1,4 @@
+streamlit
+langchain-community
+langchain-core
+duckduckgo-search
